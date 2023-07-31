@@ -1,3 +1,4 @@
+//task 1 code
 import java.lang.Math;
 import java.util.Scanner;
 class Game
